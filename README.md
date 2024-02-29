@@ -1,2 +1,2 @@
 # uchf
-inefficient cs2 cheat framework
+inefficient cs2 hack framework
